@@ -1,1 +1,1 @@
-# SPA-sans-framework
+Application starting point
